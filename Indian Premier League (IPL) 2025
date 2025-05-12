@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Indian Premier League (IPL) 2025</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-900 font-sans">
+
+  <!-- Navbar -->
+  <header class="shadow p-4 flex justify-between items-center">
+    <h1 class="text-2xl font-bold">GreenFox Articles</h1>
+    <nav class="space-x-4">
+      <a href="#" class="hover:underline">Home</a>
+      <a href="#" class="hover:underline">Articles</a>
+      <a href="#" class="hover:underline">About</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="bg-gray-100 p-10 text-center">
+    <h2 class="text-4xl font-bold mb-4">Indian Premier League (IPL) 2025: A Thrilling Season Unfolds</h2>
+    <p class="text-lg text-gray-700">The Indian Premier League (IPL) 2025 has taken center stage in the world of cricket, delivering yet another season filled with high-octane matches, standout performances, and edge-of-the-seat finishes. As the 18th edition of this cricketing extravaganza unfolds, fans across the globe are glued to their screens, cheering for their favorite franchises.</p>
+  </section>
+
+  <!-- Articles -->
+  <main class="p-10 grid gap-6 md:grid-cols-3">
+    <!-- Article Card 1 -->
+    <div class="bg-white shadow-lg rounded-2xl overflow-hidden">
+      <img src="https://assets.bcci.tv/watermarkoutput/bcci/photos/1855/2d923fa6-3480-4490-9e53-51571ad5da73.jpg" alt="AI in Medicine" class="w-full h-48 object-cover" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-2">🌟 Key Highlights So Far</h3>
+        <p class="text-gray-700 mb-4">Emerging Stars Shine Bright
+Several young talents have risen to prominence this season, making bold statements with both bat and ball. Uncapped Indian players like [insert breakout player's name] have become household names with match-winning performances.
+
+Veterans Prove Their Mettle
+Experienced campaigners like [insert famous player, e.g., Virat Kohli, Rohit Sharma, or MS Dhoni] continue to lead by example, showing that class is permanent. Their contributions have been instrumental in key moments of the tournament.
+
+Nail-Biting Finishes
+The 2025 season has already witnessed multiple super overs, last-ball thrillers, and incredible run chases. These gripping encounters have added to the tournament’s legendary status as the most entertaining T20 league in the world.</p>
+        <a href="#" class="inline-block w-full text-center bg-blue-600 text-white py-2 rounded hover:bg-blue-700">Read More</a>
+      </div>
+    </div>
+
+    <!-- Article Card 2 -->
+    <div class="bg-white shadow-lg rounded-2xl overflow-hidden">
+      <img src="https://assets.bcci.tv/watermarkoutput/bcci/photos/1854/914de741-af04-4fb5-ace0-37dad3d0a1c7.jpg" alt="Accessibility Design" class="w-full h-48 object-cover" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-2">📊 Points Table Drama</h3>
+        <p class="text-gray-700 mb-4">As the race for the playoffs heats up, the points table has seen constant reshuffling. Traditional powerhouses like Mumbai Indians (MI) and Chennai Super Kings (CSK) face tough competition from rising teams like Lucknow Super Giants (LSG) and Gujarat Titans (GT).</p>
+        <a href="#" class="inline-block w-full text-center bg-blue-600 text-white py-2 rounded hover:bg-blue-700">Read More</a>
+      </div>
+    </div>
+
+    <!-- Article Card 3 -->
+    <div class="bg-white shadow-lg rounded-2xl overflow-hidden">
+      <img src="https://assets.bcci.tv/watermarkoutput/bcci/photos/1850/667be7fa-a9fa-4951-b3b7-8c705d4db023.jpg" alt="Climate Innovation" class="w-full h-48 object-cover" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-2">🌍 Global Impact</h3>
+        <p class="text-gray-700 mb-4">The IPL continues to serve as a global stage for international cricketers, with stars from Australia, England, South Africa, and the West Indies contributing to the tournament’s competitive edge. The league’s global fanbase is larger than ever, with live broadcasts in over 100 countries and record-breaking digital viewership.</p>
+        <a href="#" class="inline-block w-full text-center bg-blue-600 text-white py-2 rounded hover:bg-blue-700">Read More</a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-100 p-6 text-center text-sm text-gray-600">
+    &copy; 2025 GreenFox Articles. All rights reserved.
+  </footer>
+
+</body>
+</html>
